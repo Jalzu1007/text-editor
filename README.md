@@ -38,6 +38,14 @@ To set up the project locally, follow these steps:
 6. Click on the "Install" button to download the web application as an icon on your desktop.
 7. The application employs a service worker created with workbox, enabling the caching of static assets for offline use.
 
+JATE Screenshots:
+
+![alt text](./client/src/images/manifest.png) 
+
+![alt text](./client/src/images/registered-serviceworker.png)
+
+![alt text](./client/src/images/indexed-db-storage.png) 
+
 To experience text-editor application, visit our deployed Heroku website: [JATE](https://text-editor-jalzu1007-1b3dad0681d3.herokuapp.com/)
 
 ## Credits
